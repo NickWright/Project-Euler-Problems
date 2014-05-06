@@ -1,0 +1,1 @@
+These are my solutions to the Project Euler problems. Written in Javascript as part of the Odin Project curriculum! www.theodinproject.com
